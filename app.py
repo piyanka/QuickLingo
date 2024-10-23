@@ -147,8 +147,6 @@ st.markdown(google_tts_talk(summarized_content, selected_language), unsafe_allow
 
 
 type_output("\nThank you for using", 0.3)
-st.markdown("Developed by [Manish](https://www.linkedin.com/in/manish-kumar-244a55202/)", unsafe_allow_html=True)
-
 
 
 
